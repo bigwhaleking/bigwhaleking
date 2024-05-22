@@ -1,5 +1,8 @@
 # bigwhaleking registry
-## Hi there 👋
+
+## introduce me
+  1. I'm interested in web hacking
+  2. I'm study in university
 
 <!--
 **bigwhaleking/bigwhaleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
