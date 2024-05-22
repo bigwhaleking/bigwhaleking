@@ -1,4 +1,4 @@
-#bigwhaleking registry
+# bigwhaleking registry
 ## Hi there 👋
 
 <!--
